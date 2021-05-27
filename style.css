@@ -1,0 +1,34 @@
+.btn-info{
+ width : 100%;
+ text-align : left;
+}
+.btn-danger{
+ display : inline;
+}
+.btn-primary{
+ float : right;
+ margin-top : 3px;
+ border : black 2px ridge;
+}
+#big_mario{
+ width : 100%;
+}
+#start{
+ font-size : x-large;
+}
+#status{
+ background-color : dodgerblue;
+}
+.modal-dialog{
+ width : 90%;
+}
+.image{
+ display : inline-block;
+ width : 45%;
+}
+video{
+ background : url("game_console.png");
+ background-size : cover;
+ background-position : center;
+ padding : 25px;
+}
